@@ -1,12 +1,14 @@
 # PennVR Fireworks Demo
 
-This demo is based on Threejs [PointerLockControls sample](https://threejs.org/examples/?q=pointer#misc_controls_pointerlock) and draws heavily upon the [CustomAttributePoints sample(https://threejs.org/examples/?q=point#webgl_custom_attributes_points).
+This demo is based on Threejs [PointerLockControls sample](https://threejs.org/examples/?q=pointer#misc_controls_pointerlock) and draws heavily upon the [CustomAttributePoints sample](https://threejs.org/examples/?q=point#webgl_custom_attributes_points). The particle.png file is entirely from this example.
 
 I also reviewed some basics for interacting with GLSL in Three.js [here](https://aerotwist.com/tutorials/an-introduction-to-shaders-part-2/).
 
 By Tim Clancy.
 
 # GitHub Pages site
+
+The demo is available to view at https://timtinkers.github.io/three-js-clancyt/.
 
 # Techniques used
 
