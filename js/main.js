@@ -14,6 +14,7 @@ document.body.appendChild(renderer.domElement);
 // Apply effects and event listeners to the renderer.
 var effect = new THREE.VREffect(renderer);
 renderer.domElement.addEventListener('mousedown', onMouseDown, false);
+renderer.domElement.addEventListener('mouseup', onMouseUp, false);
 
 // Setup crosshair for scene.
 var crosshair = new THREE.Mesh(
@@ -58,6 +59,7 @@ if (navigator.getVRDisplays) {
 
 // Mouse control flags.
 function onMouseDown() { isMouseDown = true; }
+function onMouseUp() { isMouseDown = false; }
 
 // Field variables for fireworks display.
 var fireworks = [];
