@@ -4,7 +4,9 @@ This demo is based on Threejs [PointerLockControls sample](https://threejs.org/e
 
 I also reviewed some basics for interacting with GLSL in Three.js [here](https://aerotwist.com/tutorials/an-introduction-to-shaders-part-2/).
 
-By Tim Clancy.
+|![Enjoy the fireworks.](Media/fireworks_show.gif)|
+|:-:|
+|A demonstration of the final product running in VR through the browser.|
 
 # GitHub Pages site
 
