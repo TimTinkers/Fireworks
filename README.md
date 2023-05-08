@@ -10,7 +10,7 @@ I also reviewed some basics for interacting with GLSL in Three.js [here](https:/
 
 # GitHub Pages site
 
-The demo is available to view at https://timtinkers.github.io/three-js-clancyt/.
+The demo is available to view at https://timtinkers.github.io/Fireworks/.
 
 # Techniques used
 
